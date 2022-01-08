@@ -6,5 +6,4 @@ Obecny system składa się z gotowych obrazów wirtualnych maszyn,zarówno stude
 1. Tworzyć grupy studenckie w osobnych podsieciach 
 2. Umożliwiać dodawanie użytkownika do poszczególnych grup razem z listą ACL
 3. Na maszynie wirtualnej instruktorskiej podczas łączenie klientem VPN ściąganie adresacji sieci którą ma przypisaną dany instruktor i wczytanie odpoowiedniej konfiguracji ustawień veyona
-4. Wysyłanie kodów aktywacyjnych do poszczególnych studentów
-5. 
+4. Wysyłanie kodów aktywacyjnych połączeniowych z VPN-em do poszczególnych studentów
