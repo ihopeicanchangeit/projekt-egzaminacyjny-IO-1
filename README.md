@@ -9,4 +9,4 @@ Funkcjonalność platformy przedstawione są w pliku: funkcjonalnosc_Wirtualne l
 
 ## Co należy wykonać:
 1. Opracować wymagania wstępne 
-2. Wykonać budżert oraz ramy czasowe projektu
+2. Zbudżetować projekt oraz nakreślić ramy czasowe projektu
